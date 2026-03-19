@@ -1,5 +1,5 @@
 ## Hello World ! 👋
-I am a 21yo French IT Student at ISEN. I'm passionate about AI, backend developpement and low level programming !
+I am a 21yo French IT Student at ISEN. I'm passionate about software devellopement, cloud and AI !
 In my free time, I work on personal prject and learn new technologies.
 
 ## Techs
