@@ -1,5 +1,5 @@
-## Hello World ! 👋
-I am a 21yo French IT Student at ISEN. I'm passionate about software devellopement, cloud and AI !
+## Hello World ! 
+I am a 21yo French IT Student at ISEN. I'm passionate about software developement, cloud and AI !
 In my free time, I work on personal prject and learn new technologies.
 
 ## Techs
